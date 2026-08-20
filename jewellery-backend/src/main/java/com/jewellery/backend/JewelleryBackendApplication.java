@@ -1,0 +1,13 @@
+package com.jewellery.backend;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class JewelleryBackendApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(JewelleryBackendApplication.class, args);
+	}
+
+}
